@@ -53,3 +53,9 @@ This repository documents the setup of my full-stack development environment for
 - Create a simple Express.js project as part of Task 2.  
 
 ---
+## 🖼️ Proof of Work
+
+All proof screenshots for Internship Task 1 are stored in the `proof/` folder.
+
+- **Setup Proof**  
+  ![Setup Proof](proof/setup.png)
